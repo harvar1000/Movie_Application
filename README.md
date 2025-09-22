@@ -14,7 +14,7 @@ This is a full-stack movie booking application with separate backend and fronten
 - Booking history for logged-in users  
 
 ## ⚙️ Tech Stack
-- **Backend:** Node.js, Express, MongoDB  
-- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** SpringBoot, MongoDB  
+- **Frontend:** AngularJs+Bootstarp
 
 ---
